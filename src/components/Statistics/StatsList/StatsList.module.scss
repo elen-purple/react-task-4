@@ -1,0 +1,34 @@
+.list {
+    display: flex;
+    align-items: center;
+    width: 400px;
+    border-radius: 24px;
+    overflow: hidden;
+    height: 100px;
+
+    &__item {
+        display: flex;
+        flex-direction: column;
+        height: 100%;
+        width: 100%;
+        gap: 4px;
+        justify-content: center;
+        align-items: center;
+
+        &:nth-child(1) {
+            background-color: #619BC2;
+        }
+
+        &:nth-child(2) {
+            background-color: #BF374C;
+        }
+
+        &:nth-child(3) {
+            background-color: #10954A;
+        }
+
+        &:nth-child(4) {
+            background-color: #D4B127;
+        }
+    }
+}

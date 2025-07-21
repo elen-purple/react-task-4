@@ -1,0 +1,32 @@
+[
+  {
+    "avatar": "https://m.media-amazon.com/images/M/MV5BMTY2ODQ3NjMyMl5BMl5BanBnXkFtZTcwODg0MTUzNA@@._V1_.jpg",
+    "name": "Mango",
+    "isOnline": true,
+    "id": 1812
+  },
+  {
+    "avatar": "https://m.media-amazon.com/images/M/MV5BMTMxOTEwNDcxN15BMl5BanBnXkFtZTcwOTg0MTUzNA@@._V1_.jpg",
+    "name": "Kiwi",
+    "isOnline": false,
+    "id": 1137
+  },
+  {
+    "avatar": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24288118/2363A_0070_v0550.1080K.jpg?quality=90&strip=all&crop=20.861878453039,0,58.276243093923,100",
+    "name": "Ajax",
+    "isOnline": true,
+    "id": 1213
+  },
+  {
+    "avatar": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/EF41/production/_127994216_au_gallerycontents_20cs_avatar2_5_37253098.jpg.webp",
+    "name": "Jay",
+    "isOnline": true,
+    "id": 1714
+  },
+  {
+    "avatar": "https://parade.com/.image/w_3840,q_auto:good,c_fill,ar_4:3/MTk0OTMxNTc0Njc1NzQzOTA2/avatar-3-evil-navi-james-cameron.webp",
+    "name": "Poly",
+    "isOnline": false,
+    "id": 1284
+  }
+]

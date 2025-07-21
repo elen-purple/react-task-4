@@ -1,0 +1,31 @@
+.stats {
+    display: flex;
+    border-top: 1px solid #ffffff;
+    margin-top: 20px;
+
+    &__item {
+        padding: 20px 0;
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-right: #ffffff 1px solid;
+        flex-direction: column;
+        gap: 4px;
+
+        &:last-child {
+            border-right: none;
+        }
+    }
+
+    &__desc {
+        color: #ffffff;
+        font-size: 14px;
+    }
+
+    &__number {
+        color: #ffffff;
+        font-size: 20px;
+        font-weight: 600;
+    }
+}
